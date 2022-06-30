@@ -8,7 +8,7 @@ Some extended information about the OM3BC tracker found here: www.om3bc.com/docs
 My aim of the Eagle files is to make an as simple to build, cheap and light tracker as possible, a fully assambled board should weigh in on about 1 - 1.3gram,
 a fully assambled board with solar cells and antenna about 3.5gram
 
-Im using 6 of the smallest avalible (19x39mm) solar cells in series to power the board, it makes it run from and to 15-19Â° solar angle dependig on Gps used
+Im using 6 of the smallest avalible (19x39mm) solar cells in series to power the board, it makes it run from and to 15-19° solar angle depending on Gps used
 
 After more then 25 launches over the years and probably more then 10 pcb revisions I have come to this final? design, the intention of this page is to ease the building and configuring the OM3BC APRS / RTTY / CW tracker.
 
